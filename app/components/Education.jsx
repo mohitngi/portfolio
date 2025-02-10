@@ -13,8 +13,8 @@ export default function Education() {
       period: "2022 – 2025",
       achievements: [
         "Graduated with honors",
-        "Specialized in Web Technologies and Artificial Intelligence",
-        "Completed capstone project on 'Intelligent Web Application for Healthcare'",
+        "Specialized in web technologies like React, Next.js,etc ",
+        "Completed capstone project on 'Web application for personal blogs with authentication'",
       ],
     },
   ]

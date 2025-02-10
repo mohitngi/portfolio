@@ -10,7 +10,7 @@ export default function Projects() {
       icon: <Utensils className="w-6 h-6" />,
       title: "Burger House",
       description:
-        "A revolutionary web application built using React and Next.js, focused on performance and an engaging UI.",
+        "A static web application built using Vanilla JS, HTML, CSS focused on engaging UI.",
       link: "https://burger-house-coral.vercel.app/",
       repoLink: "https://github.com/mohitngi/Burger-House",
     },
@@ -19,7 +19,7 @@ export default function Projects() {
       icon: <ScrollText className="w-6 h-6" />,
       title: "BizBasket",
       description:
-        "An API-driven project integrating RESTful and GraphQL endpoints for seamless data flow.",
+        "A personal blogs writing platform using React, TailwindCSS, Appwrite. ",
       link: "https://bizbasket.vercel.app/",
       repoLink: "https://github.com/mohitngi/BizBasket",
     },
