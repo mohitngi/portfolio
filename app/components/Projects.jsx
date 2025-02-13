@@ -15,14 +15,14 @@ export default function Projects() {
       repoLink: "https://github.com/mohitngi/Burger-House",
     },
     
-    {
-      icon: <ScrollText className="w-6 h-6" />,
-      title: "BizBasket",
-      description:
-        "A personal blogs writing platform using React, TailwindCSS, Appwrite. ",
-      link: "https://bizbasket.vercel.app/",
-      repoLink: "https://github.com/mohitngi/BizBasket",
-    },
+    // {
+    //   icon: <ScrollText className="w-6 h-6" />,
+    //   title: "BizBasket",
+    //   description:
+    //     "A personal blogs writing platform using React, TailwindCSS, Appwrite. ",
+    //   link: "https://bizbasket.vercel.app/",
+    //   repoLink: "https://github.com/mohitngi/BizBasket",
+    // },
   ]
 
   return (
